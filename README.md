@@ -17,4 +17,4 @@ The description given above is for a general penny social auction. For the sake 
 4. Each bidder buys just 1 sheet of tickets or tokens; each sheet has only 5 tokens.
 5. Assume simple number for the serial numbers for the sheet of tickets: 0,1,2,3. 
 
-![Image description](https://github.com/mourya317/Auction-SmartContract/blob/master/Design.png)
+![Image description](https://github.com/mourya317-EthereumDapps/Auction-SmartContract/blob/master/Design.png)
